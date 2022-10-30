@@ -1,0 +1,4 @@
+resources:
+  - projeto-mysql-secret.yaml
+  - projeto-mysql.yaml
+  - projeto-tarefas.yaml
